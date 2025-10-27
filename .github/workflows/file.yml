@@ -13,4 +13,4 @@ jobs:
           dotnet-version: '9.0.x' 
 
       - name: Step2
-        run: dotnet run --project ./pr10/pr10.csproj
+        run: dotnet run --project ./pr10.csproj
